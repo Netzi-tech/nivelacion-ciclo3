@@ -2,7 +2,7 @@
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-df-wl%plnjwsnr4_t1mhuga76nsx8v^s6or*jc+ucs(ijfo6cb'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
